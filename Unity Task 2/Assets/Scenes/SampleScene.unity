@@ -177,7 +177,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -1843888547
+  m_SortingLayerID: -1800694993
   m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9d8e964dd7ceb466c87030d97a40e214, type: 3}
@@ -315,7 +315,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 9076965357952605414, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -397,7 +397,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 8798183971590883769, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -479,7 +479,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 2a5c2f3ca4ae14e7e91149316db1e054, type: 3}
@@ -841,7 +841,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 5254754937103403027, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -923,7 +923,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 3497845450899428337, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -1005,7 +1005,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -7563295339155453782, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -1087,7 +1087,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c5f562f1c91da468b9c01eaf24858791, type: 3}
@@ -1169,7 +1169,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 64eebde81b28b4bf09d486851692948b, type: 3}
@@ -1251,7 +1251,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -2050807692096608109, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -1333,7 +1333,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 8381771087374729117, guid: 9b4bd070b482c4b31ab0a28c698baa9f, type: 3}
@@ -1497,7 +1497,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300106, guid: 1a08f9bec49c04809b03ba62a218b140, type: 3}
@@ -1579,7 +1579,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 628415717
+  m_SortingLayerID: 1253453735
   m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300104, guid: 1a08f9bec49c04809b03ba62a218b140, type: 3}
