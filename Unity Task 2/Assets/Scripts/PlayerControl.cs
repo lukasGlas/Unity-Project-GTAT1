@@ -47,6 +47,19 @@ namespace Scripts
             {
                 //determines player movement on x axis based on adequate key input (e.g. A, D)
                 move_x = Input.GetAxisRaw("Horizontal");
+                Vector3 characterScale = transform.localScale;
+
+                if (Input.GetAxis("Horizontal") < 0)
+                {
+                    characterScale.x = -5;
+                }
+
+                if (Input.GetAxis("Horizontal") > 0)
+                {
+                    characterScale.x = 5;
+                }
+
+                transform.localScale = characterScale;
                 
                 if (Input.GetKey(KeyCode.A))
                 {
