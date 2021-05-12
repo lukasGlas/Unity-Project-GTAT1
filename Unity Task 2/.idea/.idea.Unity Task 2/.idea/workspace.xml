@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dea6398d-19ea-4e6c-a88e-041f8993929e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-    </list>
+    <list default="true" id="dea6398d-19ea-4e6c-a88e-041f8993929e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Warped Caves/Scripts/GameManager.cs" />
@@ -19,11 +25,13 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/entity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Visable.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ScreenHider.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Entity.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Intersection.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1sCncRQ01TK0b0hC0RFnSlUP0nP" />
@@ -37,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -72,6 +81,12 @@
       <workItem from="1620385541579" duration="811000" />
       <workItem from="1620389948631" duration="10145000" />
       <workItem from="1620403494340" duration="3000" />
+      <workItem from="1620411553109" duration="587000" />
+      <workItem from="1620412683733" duration="271000" />
+      <workItem from="1620477756204" duration="4000" />
+      <workItem from="1620556877770" duration="4000" />
+      <workItem from="1620644002241" duration="8108000" />
+      <workItem from="1620818294265" duration="4902000" />
     </task>
     <servers />
   </component>
