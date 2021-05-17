@@ -14,20 +14,16 @@ public class EnemyControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
     }
-
-    // Code: https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/
-        // This function is called every time another collider overlaps the trigger collider
-        IEnumerator OnTriggerEnter2D(Collider2D other)
+    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy"))
         {
-            // Checking if the overlapped collider is an enemy
-            if (other.CompareTag("Enemy"))
-            {
-                // This scene HAS TO BE IN THE BUILD SETTINGS!!!
-                SceneManager.LoadScene("SampleScene");
+            // This scene HAS TO BE IN THE BUILD SETTINGS!!!
+            SceneManager.LoadScene("SampleScene");
                 
 
-            }
         }
+    }
 }
